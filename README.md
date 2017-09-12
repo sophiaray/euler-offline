@@ -1,6 +1,4 @@
-Project Euler Problems Offline
-====
+Soph's Project Euler
+=====
 
-Use when you want to solve Project Euler problems when not connected to the internet.
-
-Includes questions and answers (hashed).
+I'm in the process of moving things from a jupyter notebook to test-project-euler.py. For the full set, see the .ipynb file
